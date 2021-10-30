@@ -4,3 +4,4 @@ Rencana Resolusi Eric
 -CSS
 -Javascript
 -React
+-Raba back end
