@@ -5,3 +5,4 @@ Rencana Resolusi Eric
 -Javascript
 -React
 -Raba back end
+-Laravel
