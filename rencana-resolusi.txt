@@ -1,0 +1,6 @@
+Rencana Resolusi Eric
+
+-Html
+-CSS
+-Javascript
+-React
