@@ -6,4 +6,3 @@ Rencana Resolusi Eric
 -React
 -Raba back end
 -Laravel
--Reactjs
